@@ -92,6 +92,8 @@ svgs = [
     'svgs/steelseries-sensei310.svg',
     'svgs/steelseries-senseiraw.svg',
     'svgs/steelseries-senseiten.svg',
+    'svgs/asus-generic-8btn.svg',
+    'svgs/asus-generic-8btn-dpibot.svg',
 ]
 
 svg_mapping = files('svgs/svg-lookup.ini')
